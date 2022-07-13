@@ -10,7 +10,7 @@ Projeto de plataforma de e-learning feito com ReactJS, Context API, Vite JS, Sty
 
 ## 🌎 Versão Ao Vivo
 
-[![vercel](https://img.shields.io/badge/vercel-000?style=for-the-badge&logo=vercel&logoColor=white)](https://ignite-lab-delta.vercel.app/)
+[![vercel](https://img.shields.io/badge/vercel-000?style=for-the-badge&logo=vercel&logoColor=white)](https://task-timer-wheat.vercel.app/)
 
 ## 🛠 Technologies
 
