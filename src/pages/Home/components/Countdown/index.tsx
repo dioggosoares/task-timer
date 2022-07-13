@@ -61,7 +61,7 @@ export function Countdown() {
     if (activeCycle) {
       document.title = `${minutes}:${seconds}`
     } else {
-      document.title = 'Ignite Timer'
+      document.title = 'Task Timer'
     }
   }, [minutes, seconds, activeCycle])
 
